@@ -14,5 +14,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true
  },
- "editor.defaultFormatter": "esbenp.prettier-vscode"
+ "editor.defaultFormatter": "esbenp.prettier-vscode",
+ "prettier.bracketSameLine": true
 }
